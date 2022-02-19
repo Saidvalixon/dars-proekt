@@ -1,0 +1,86 @@
+.disconnect{
+	width: 1500px;
+	background-color: #e5e3e3;
+}
+.container{
+	max-width: 1300px;
+	margin: 0 auto;
+}
+.diss2{
+ width: 1100px;
+ height: 600px;
+ display: flex;
+ justify-content: space-around; 
+}
+.icon{
+	background-color: #fff600;
+	width: 30px;
+	height: 20px;
+	padding-left: 10px;
+	padding-top: 15px;
+}
+.minids1{
+	margin-left: 30px;
+}
+.ptext2{
+
+}
+.minids2{
+	margin-left: 30px;
+}
+.minids3{
+    margin-left: 30px;
+}
+
+/*
+.disconnect{
+	width: 1100px;
+	height: 665px;
+	background-color: fff;
+}
+.container{
+		width: 1000px;
+		margin: 0 auto;
+}
+.diss1{
+
+}
+.diss2{
+  	width: 1100px;
+  	height: 600px;
+  	display: flex;
+  	justify-content: space-between;
+
+  }
+.minids1{
+	width: 565px;
+	height: 355px;
+	background-color: #b2b2b2;
+}
+
+.icon-pen:before {
+  content: "\e908";
+}
+.minids2{
+	width: 260px;
+	height: 340px;
+	background-color: #b2b2b2;
+}
+
+.minids3{
+	width: 260px;
+	height: 340px;
+	background-color: #b2b2b2;
+}
+  .icon-arrow-left2:before {
+  content: "\ea40";
+}
+.icon-arrow-right2:before {
+  content: "\ea3c";
+}*/
+/*
+    width565
+    height355*/
+/*
+    width26
+    height340*/
